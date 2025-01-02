@@ -1,0 +1,4 @@
+blockquote span:contains("Бутявка") {
+	color: yellow;
+	font-weight: bold;
+  }
